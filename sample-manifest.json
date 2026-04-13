@@ -1,0 +1,12 @@
+{
+  "export_job_id": "60d8757a-cf79-4c1a-9762-f591a230f801",
+  "id_short": 584546,
+  "published_at": "2026-04-13T19:37:07Z",
+  "repo_name": "restaurant-verified-email-access-in-kansas-us-sample-584546",
+  "sample_asset_name": "beamstation_584546_restaurants-us-ks_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/584546/beamstation_584546_restaurants-us-ks_SAMPLE_DIST.csv",
+  "sample_records": 10,
+  "sample_sha256": "18b8a60c6b625289f1e7020deb6b8631ba5d5280c6dc0d4928ede33b95b26b71",
+  "sample_size_bytes": 55676,
+  "total_records": 894
+}
