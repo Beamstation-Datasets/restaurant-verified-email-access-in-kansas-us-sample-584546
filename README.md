@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Kansas, US
 
-> Free BeamStation sample export with 10 rows and masked direct-contact fields.
+> Free BeamStation sample export with 101 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `584546` |
 | Location | Kansas |
 | Category | Restaurants |
-| Full dataset size | 894 records |
-| Free sample size | 10 records (1.12%) |
-| Last export | 2026-04-01T01:46:38.515393+00:00 |
+| Full dataset size | 1,013 records |
+| Free sample size | 101 records (9.97%) |
+| Last export | 2026-04-15T04:10:06.922947+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-kansas-us-sample-584546/releases/download/sample-latest/beamstation_584546_restaurants-us-ks_SAMPLE_DIST.csv) |
 
 ## What is in this sample
